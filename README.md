@@ -8,7 +8,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Dashboard Interaction
 
--https://github.com/rohit-creator1/Data-Analysis-Dashboard-Car-Inventory/blob/main/Cars%20Report%20Screenshot.png
+-https://github.com/rohit-creator1/Data-Analysis-Dashboard-Phone-Store/blob/main/Phone%20Store%20Graph.png
 
 ## Process
 
@@ -20,4 +20,5 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Dashboard
 
-<img width="669" height="400" alt="Cars Report Screenshot" src="https://github.com/user-attachments/assets/7c9a9b62-7e11-4436-a309-73209d761784" />
+<img width="672" height="447" alt="Phone Store Graph" src="https://github.com/user-attachments/assets/a5910187-c6e3-415b-af89-a345517e4092" />
+
