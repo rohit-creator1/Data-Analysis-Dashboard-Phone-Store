@@ -4,7 +4,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Raw data used
 
--http://github.com/rohit-creator1/Data-Analysis-Dashboard-Phone-Store/blob/main/phone%20store%20daw%20data.txt
+-https://github.com/rohit-creator1/Data-Analysis-Dashboard-Phone-Store/blob/main/phone%20store%20daw%20data.txt
 
 ## Dashboard Interaction
 
